@@ -7,18 +7,18 @@
           "category": "Accesories",
           "items": [
             {
-              "title": "Tool Box",
-              "partnumbers": ["30072260", "30051080"],
+              "title": "",
+              "partnumbers": [],
               "imageurl": ""
             },
             {
-              "title": "Walkie Talkie",
+              "title": "",
               "partnumbers": [],
-               "imageurl": ""
+              "imageurl": ""
             },
              {
-              "title": "Binoculars",
-              "partnumbers": ["30072261"],
+              "title": "",
+              "partnumbers": [],
               "imageurl": ""
             }
           ]
@@ -32,8 +32,8 @@
           "category": "Clickys",
           "items": [
             {
-              "title": "Clicky 1",
-              "partnumbers": ["30072270"],
+              "title": "",
+              "partnumbers": [],
               "imageurl": ""
             },
             {
@@ -52,14 +52,14 @@
           "category": "Connectors",
           "items": [
               {
-                  "title": "Connector 1",
-                  "partnumbers": [],
-                 "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
              },
               {
-                  "title": "Connector 2",
-                  "partnumbers": ["30051081", "30051082"],
-                  "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
              }
           ]
         }
@@ -72,14 +72,14 @@
           "category": "Floor sections",
           "items": [
             {
-              "title": "Floor 1",
-               "partnumbers": [],
-                "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
             },
             {
-              "title": "Floor 2",
+              "title": "",
               "partnumbers": [],
-               "imageurl": ""
+              "imageurl": ""
             }
           ]
         }
@@ -92,14 +92,14 @@
             "category": "Roof sections",
              "items": [
                 {
-                    "title": "Roof 1",
-                    "partnumbers": [],
-                    "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                  },
                 {
-                    "title": "Roof 2",
-                     "partnumbers": [],
-                   "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                  }
               ]
           }
@@ -112,14 +112,14 @@
            "category": "Signs",
              "items": [
                 {
-                   "title": "Sign 1",
-                   "partnumbers": [],
-                    "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                  },
                  {
-                    "title": "Sign 2",
-                    "partnumbers": [],
-                     "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                   }
                 ]
             }
@@ -132,14 +132,14 @@
            "category": "Wall sections",
            "items": [
                {
-                  "title": "Wall 1",
-                  "partnumbers": [],
-                   "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                 },
                 {
-                    "title": "Wall 2",
-                    "partnumbers": [],
-                    "imageurl": ""
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
                 }
             ]
        }
