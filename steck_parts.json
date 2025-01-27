@@ -9,17 +9,17 @@
             {
               "title": "Tool Box",
               "partnumbers": ["30072260", "30051080"],
-              "imageurl": "https://i.ibb.co/1z5Hj9K/tool-box.png"
+              "imageurl": ""
             },
             {
               "title": "Walkie Talkie",
               "partnumbers": [],
-               "imageurl": "https://i.ibb.co/jG2hN0L/walkie-talkie.png"
+               "imageurl": ""
             },
              {
               "title": "Binoculars",
               "partnumbers": ["30072261"],
-              "imageurl": "https://i.ibb.co/fGh556b/binoculars.png"
+              "imageurl": ""
             }
           ]
         }
@@ -34,7 +34,7 @@
             {
               "title": "Clicky 1",
               "partnumbers": ["30072270"],
-               "imageurl": "https://i.ibb.co/z8Zp4Yf/clicky.png"
+              "imageurl": ""
             },
             {
               "title": "Clicky 2",
@@ -44,7 +44,7 @@
             {
               "title": "Clicky 3",
               "partnumbers": ["30072272"],
-               "imageurl": "https://i.ibb.co/z8Zp4Yf/clicky.png"
+              "imageurl": ""
             }
           ]
         },
