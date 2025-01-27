@@ -1,0 +1,149 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "parts": [
+        {
+          "category": "Accesories",
+          "items": [
+            {
+              "title": "Tool Box",
+              "partnumbers": ["30072260", "30051080"],
+              "imageurl": "https://i.ibb.co/1z5Hj9K/tool-box.png"
+            },
+            {
+              "title": "Walkie Talkie",
+              "partnumbers": [],
+               "imageurl": "https://i.ibb.co/jG2hN0L/walkie-talkie.png"
+            },
+             {
+              "title": "Binoculars",
+              "partnumbers": ["30072261"],
+              "imageurl": "https://i.ibb.co/fGh556b/binoculars.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "parts": [
+        {
+          "category": "Clickys",
+          "items": [
+            {
+              "title": "Clicky 1",
+              "partnumbers": ["30072270"],
+               "imageurl": "https://i.ibb.co/z8Zp4Yf/clicky.png"
+            },
+            {
+              "title": "Clicky 2",
+              "partnumbers": ["30072271"],
+              "imageurl": ""
+            },
+            {
+              "title": "Clicky 3",
+              "partnumbers": ["30072272"],
+               "imageurl": "https://i.ibb.co/z8Zp4Yf/clicky.png"
+            }
+          ]
+        },
+        {
+          "category": "Connectors",
+          "items": [
+              {
+                  "title": "Connector 1",
+                  "partnumbers": [],
+                 "imageurl": ""
+             },
+              {
+                  "title": "Connector 2",
+                  "partnumbers": ["30051081", "30051082"],
+                  "imageurl": ""
+             }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        {
+          "category": "Floor sections",
+          "items": [
+            {
+              "title": "Floor 1",
+               "partnumbers": [],
+                "imageurl": ""
+            },
+            {
+              "title": "Floor 2",
+              "partnumbers": [],
+               "imageurl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+       "id": 4,
+        "parts": [
+          {
+            "category": "Roof sections",
+             "items": [
+                {
+                    "title": "Roof 1",
+                    "partnumbers": [],
+                    "imageurl": ""
+                 },
+                {
+                    "title": "Roof 2",
+                     "partnumbers": [],
+                   "imageurl": ""
+                 }
+              ]
+          }
+        ]
+    },
+    {
+       "id": 5,
+        "parts": [
+         {
+           "category": "Signs",
+             "items": [
+                {
+                   "title": "Sign 1",
+                   "partnumbers": [],
+                    "imageurl": ""
+                 },
+                 {
+                    "title": "Sign 2",
+                    "partnumbers": [],
+                     "imageurl": ""
+                  }
+                ]
+            }
+        ]
+    },
+   {
+      "id": 6,
+      "parts": [
+         {
+           "category": "Wall sections",
+           "items": [
+               {
+                  "title": "Wall 1",
+                  "partnumbers": [],
+                   "imageurl": ""
+                },
+                {
+                    "title": "Wall 2",
+                    "partnumbers": [],
+                    "imageurl": ""
+                }
+            ]
+       }
+    ]
+  }
+  ]
+}
