@@ -26,27 +26,27 @@
                     "partnumbers": ["30044270","30071500","30452120"],
                     "imageurl": "https://i.ibb.co/k2Gg4QZ/30044270.png"
                 }
-            ]
-        }
+              ]
+          }
       ]
     },
-    {
-      "id": 3,
+   {
+      "id": 2,
       "parts": [
         {
           "category": "Floor sections",
           "items": [
             {
-              "title": "Work in progress",
-               "partnumbers": [],
-                "imageurl": ""
+              "title": "Element, 1x1, hooks on 2 opposite sides, with a hole in the corner",
+               "partnumbers": ["30078810"],
+                "imageurl": "https://i.ibb.co/zmkvj2y/30078810.png"
             }
           ]
         }
       ]
     },
         {
-       "id": 4,
+       "id": 3,
         "parts": [
          {
            "category": "Signs",
@@ -81,7 +81,7 @@
         ]
     },
    {
-      "id": 5,
+      "id": 4,
       "parts": [
         {
           "category": "Accesories",
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
        "parts": [
           {
             "category": "Connectors",
@@ -110,8 +110,8 @@
           }
        ]
     },
-      {
-      "id": 7,
+       {
+      "id": 6,
        "parts": [
          {
            "category": "Clickys",
