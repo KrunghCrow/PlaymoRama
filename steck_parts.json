@@ -66,16 +66,16 @@
          {
            "category": "Signs",
              "items": [
+                                {
+                    "title": "Bracket for signs",
+                    "partnumbers": ["30452200"],
+                    "imageurl": "https://i.ibb.co/N3vnYsC/30452200.png"
+                  },
                 {
                    "title": "Sign, hangs on 2 hooks",
                    "partnumbers": ["30028840"],
                     "imageurl": "https://i.ibb.co/RvkZF0f/30028840.png"
-                 },
-                 {
-                    "title": "Bracket for signs",
-                    "partnumbers": ["30452200"],
-                    "imageurl": "https://i.ibb.co/N3vnYsC/30452200.png"
-                  }
+                 }
                 ]
             }
         ]
