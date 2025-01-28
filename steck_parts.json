@@ -2,38 +2,33 @@
   "profiles": [
     {
       "id": 1,
-      "parts": [
-         {
-           "category": "Wall sections",
-           "items": [
-               {
-                  "title": "Wall (Bag)",
-                  "partnumbers": ["30514463"],
-                  "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
-                },
-                {
-                  "title": "Wall, arched window (Bag)",
-                  "partnumbers": ["30514453"],
-                  "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
-                }
-            ]
-       }
-    ]
-  },
-    {
-       "id": 2,
-        "parts": [
-          {
-            "category": "Roof sections",
-             "items": [
+       "parts": [
+           {
+              "category": "Wall sections",
+              "items": [
+                   {
+                      "title": "Wall section bag",
+                      "partnumbers": ["30514463"],
+                      "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                    },
+                     {
+                       "title": "Wall section arched window bag",
+                       "partnumbers": ["30514453"],
+                        "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
+                     }
+                  ]
+           },
+           {
+             "category": "Roof sections",
+              "items": [
                 {
                     "title": "Eave, Red",
                     "partnumbers": ["30044270","30071500","30452120"],
                     "imageurl": "https://i.ibb.co/k2Gg4QZ/30044270.png"
                 }
-              ]
-          }
-        ]
+            ]
+        }
+      ]
     },
     {
       "id": 3,
@@ -56,11 +51,11 @@
          {
            "category": "Signs",
              "items": [
-                                {
-                    "title": "Bracket for signs",
-                    "partnumbers": ["30452200"],
+                {
+                   "title": "Bracket for signs",
+                   "partnumbers": ["30452200"],
                     "imageurl": "https://i.ibb.co/N3vnYsC/30452200.png"
-                  },
+                 },
                 {
                    "title": "Sign, needs 2x 30452200",
                    "partnumbers": ["30028840"],
@@ -93,8 +88,8 @@
           "items": [
             {
               "title": "Work in progress",
-               "partnumbers": [],
-                "imageurl": ""
+              "partnumbers": [],
+              "imageurl": ""
             }
           ]
         }
@@ -107,15 +102,15 @@
             "category": "Connectors",
             "items": [
                 {
-                  "title": "Work in progress",
-                   "partnumbers": [],
+                    "title": "Work in progress",
+                    "partnumbers": [],
                     "imageurl": ""
-                }
-              ]
+               }
+            ]
           }
        ]
     },
-       {
+      {
       "id": 7,
        "parts": [
          {
