@@ -2,22 +2,22 @@
   "profiles": [
     {
       "id": 1,
-      "parts": [
-         {
-           "category": "Wall sections",
-           "items": [
-               {
-                  "title": "Wall section bag",
-                  "partnumbers": ["30514463"],
-                  "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
-                },
-                {
-                  "title": "Wall section arched window bag",
-                  "partnumbers": ["30514453"],
-                  "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
-                }
-            ]
-       },
+       "parts": [
+           {
+              "category": "Wall sections",
+              "items": [
+                   {
+                      "title": "Wall section bag",
+                      "partnumbers": ["30514463"],
+                      "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                    },
+                     {
+                       "title": "Wall section arched window bag",
+                       "partnumbers": ["30514453"],
+                        "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
+                     }
+                  ]
+           },
            {
              "category": "Roof sections",
               "items": [
@@ -30,7 +30,7 @@
           }
       ]
     },
-    {
+   {
       "id": 2,
       "parts": [
         {
@@ -49,7 +49,7 @@
             {
               "title": "Element, 1x2, hooks on 2 opposite sides with a square cutout for a ladder",
                "partnumbers": ["30070780"],
-                "imageurl": "hhttps://i.ibb.co/CKNXTZB5/30070780.png"
+                "imageurl": "https://i.ibb.co/CKNXTZB5/30070780.png"
             },
             {
               "title": "Element, 1x2, hooks on 2 opposite sides with a conclave cutout for tower walls",
@@ -90,7 +90,7 @@
                    "title": "Sign, white (Western Blacksmith)",
                    "partnumbers": ["30646690"],
                     "imageurl": "https://i.ibb.co/qRLQQVF/30646690.png"
-                 }
+                 },
                 ]
             }
         ]
