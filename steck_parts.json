@@ -121,21 +121,11 @@
          {
            "category": "Clickys",
            "items": [
-             {
-               "title": "",
-                 "partnumbers": [],
-                  "imageurl": ""
-               },
-               {
-                 "title": "",
-                 "partnumbers": [],
-                 "imageurl": ""
-                },
-                {
-                    "title": "",
-                     "partnumbers": [],
-                     "imageurl": ""
-                 }
+            {
+              "title": "Work in progress",
+               "partnumbers": [],
+                "imageurl": ""
+            }
             ]
         }
      ]
