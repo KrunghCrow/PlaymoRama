@@ -82,10 +82,15 @@
                     "imageurl": "https://i.ibb.co/Z6BBR8q/30027340.png"
                  },
                 {
-                   "title": "Sign, white hangs flat to wall",
+                   "title": "Sign, white hangs flat to wall (Blanc)",
                    "partnumbers": ["30024610"],
                     "imageurl": "https://i.ibb.co/bN7jT0G/30024610.png"
-                 }
+                 },
+                 {
+                   "title": "Sign, white hangs flat to wall (Stable)",
+                   "partnumbers": ["30646690"],
+                    "imageurl": "https://i.ibb.co/qRLQQVF/30646690.png"
+                 },
                 ]
             }
         ]
