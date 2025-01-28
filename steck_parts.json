@@ -25,6 +25,16 @@
                     "title": "Eave, Red",
                     "partnumbers": ["30044270","30071500","30452120"],
                     "imageurl": "https://i.ibb.co/k2Gg4QZ/30044270.png"
+                },
+                {
+                    "title": "Eave, Dark Red",
+                    "partnumbers": ["30226710"],
+                    "imageurl": "https://i.ibb.co/p6CdhrQf/30226710.png"
+                },
+                {
+                    "title": "Eave,Black",
+                    "partnumbers": ["30262510"],
+                    "imageurl": "https://i.ibb.co/JWTBG8Np/30262510.png"
                 }
               ]
           }
