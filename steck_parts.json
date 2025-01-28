@@ -3,6 +3,86 @@
     {
       "id": 1,
       "parts": [
+         {
+           "category": "Wall sections",
+           "items": [
+               {
+                  "title": "Wall section bag",
+                  "partnumbers": ["30514463"],
+                  "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                },
+                {
+                  "title": "Wall section arched window bag",
+                  "partnumbers": ["30514453"],
+                  "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
+                }
+            ]
+       }
+    ]
+  },
+    {
+       "id": 2,
+        "parts": [
+          {
+            "category": "Roof sections",
+             "items": [
+                {
+                    "title": "",
+                    "partnumbers": [],
+                    "imageurl": ""
+                },
+                 {
+                    "title": "",
+                     "partnumbers": [],
+                    "imageurl": ""
+                 }
+              ]
+          }
+        ]
+    },
+    {
+      "id": 3,
+      "parts": [
+        {
+          "category": "Floor sections",
+          "items": [
+            {
+              "title": "",
+               "partnumbers": [],
+                "imageurl": ""
+            },
+            {
+              "title": "",
+              "partnumbers": [],
+               "imageurl": ""
+            }
+          ]
+        }
+      ]
+    },
+        {
+       "id": 4,
+        "parts": [
+         {
+           "category": "Signs",
+             "items": [
+                {
+                   "title": "Sign, hangs on 2 hooks",
+                   "partnumbers": ["30028840"],
+                    "imageurl": "https://i.ibb.co/RvkZF0f/30028840.png"
+                 },
+                 {
+                    "title": "Bracket for signs",
+                    "partnumbers": ["30452200"],
+                    "imageurl": "https://i.ibb.co/N3vnYsC/30452200.png"
+                  }
+                ]
+            }
+        ]
+    },
+   {
+      "id": 5,
+      "parts": [
         {
           "category": "Accesories",
           "items": [
@@ -26,124 +106,49 @@
       ]
     },
     {
-      "id": 3,
-      "parts": [
-        {
-          "category": "Floor sections",
-          "items": [
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-       "id": 4,
-        "parts": [
+      "id": 6,
+       "parts": [
           {
-            "category": "Roof sections",
-             "items": [
+            "category": "Connectors",
+            "items": [
                 {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-                 },
+                    "title": "",
+                    "partnumbers": [],
+                    "imageurl": ""
+               },
                 {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-                 }
+                    "title": "",
+                    "partnumbers": [],
+                     "imageurl": ""
+                  }
               ]
           }
-        ]
+       ]
     },
-    {
-       "id": 5,
-        "parts": [
+       {
+      "id": 7,
+       "parts": [
          {
-           "category": "Signs",
-             "items": [
-                {
-              "title": "Sign, hangs on 2 hooks",
-              "partnumbers": ["30028840"],
-              "imageurl": "https://i.ibb.co/RvkZF0f/30028840.png"
-                 },
-                 {
-              "title": "Bracket for signs",
-              "partnumbers": ["30452200"],
-              "imageurl": "https://i.ibb.co/N3vnYsC/30452200.png"
-                  }
-                ]
-            }
-        ]
-    },
-   {
-      "id": 6,
-      "parts": [
-         {
-           "category": "Wall sections",
+           "category": "Clickys",
            "items": [
+             {
+               "title": "",
+                 "partnumbers": [],
+                  "imageurl": ""
+               },
                {
-              "title": "Wall section bag",
-              "partnumbers": ["30514463"],
-              "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                 "title": "",
+                 "partnumbers": [],
+                 "imageurl": ""
                 },
                 {
-              "title": "Wall section arched window bag",
-              "partnumbers": ["30514453"],
-              "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
-                }
+                    "title": "",
+                     "partnumbers": [],
+                     "imageurl": ""
+                 }
             ]
-       }
-    ]
-  },
-        {
-      "id": 2,
-      "parts": [
-        {
-          "category": "Clickys",
-          "items": [
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            }
-          ]
-        },
-        {
-          "category": "Connectors",
-          "items": [
-              {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-             },
-              {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-             }
-          ]
         }
-      ]
-    }
+     ]
+   }
   ]
 }
