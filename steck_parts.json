@@ -30,12 +30,7 @@
                     "title": "Eave , Red",
                     "partnumbers": ["30044270","30071500","30452120"],
                     "imageurl": "https://i.ibb.co/k2Gg4QZ/30044270.png"
-                },
-                 {
-                    "title": "",
-                     "partnumbers": [],
-                    "imageurl": ""
-                 }
+                }
               ]
           }
         ]
@@ -47,14 +42,9 @@
           "category": "Floor sections",
           "items": [
             {
-              "title": "",
+              "title": "Work in progress",
                "partnumbers": [],
                 "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-               "imageurl": ""
             }
           ]
         }
@@ -102,19 +92,9 @@
           "category": "Accesories",
           "items": [
             {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-             {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
+              "title": "Work in progress",
+               "partnumbers": [],
+                "imageurl": ""
             }
           ]
         }
@@ -127,15 +107,10 @@
             "category": "Connectors",
             "items": [
                 {
-                    "title": "",
-                    "partnumbers": [],
+                  "title": "Work in progress",
+                   "partnumbers": [],
                     "imageurl": ""
-               },
-                {
-                    "title": "",
-                    "partnumbers": [],
-                     "imageurl": ""
-                  }
+                }
               ]
           }
        ]
