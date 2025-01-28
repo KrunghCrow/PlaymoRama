@@ -37,6 +37,10 @@
           "category": "Floor sections",
           "items": [
             {
+              "title": "Element, 1x1, hooks on 2 opposite sides",
+               "partnumbers": ["30028480"],
+                "imageurl": "https://i.ibb.co/8FKFN8K/30028480.png"
+            },            {
               "title": "Element, 1x1, hooks on 2 opposite sides, with a hole in the corner",
                "partnumbers": ["30078810"],
                 "imageurl": "https://i.ibb.co/zmkvj2y/30078810.png"
