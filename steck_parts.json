@@ -2,22 +2,22 @@
   "profiles": [
     {
       "id": 1,
-       "parts": [
-           {
-              "category": "Wall sections",
-              "items": [
-                   {
-                      "title": "Wall section bag",
-                      "partnumbers": ["30514463"],
-                      "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
-                    },
-                     {
-                       "title": "Wall section arched window bag",
-                       "partnumbers": ["30514453"],
-                        "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
-                     }
-                  ]
-           },
+      "parts": [
+         {
+           "category": "Wall sections",
+           "items": [
+               {
+                  "title": "Wall section bag",
+                  "partnumbers": ["30514463"],
+                  "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                },
+                {
+                  "title": "Wall section arched window bag",
+                  "partnumbers": ["30514453"],
+                  "imageurl": "https://i.ibb.co/8KyHyq4/30514453.png"
+                }
+            ]
+       },
            {
              "category": "Roof sections",
               "items": [
@@ -125,7 +125,7 @@
           }
        ]
     },
-       {
+      {
       "id": 6,
        "parts": [
          {
