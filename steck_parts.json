@@ -26,46 +26,6 @@
       ]
     },
     {
-      "id": 2,
-      "parts": [
-        {
-          "category": "Clickys",
-          "items": [
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            },
-            {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-            }
-          ]
-        },
-        {
-          "category": "Connectors",
-          "items": [
-              {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-             },
-              {
-              "title": "",
-              "partnumbers": [],
-              "imageurl": ""
-             }
-          ]
-        }
-      ]
-    },
-    {
       "id": 3,
       "parts": [
         {
@@ -144,6 +104,46 @@
             ]
        }
     ]
-  }
+  },
+        {
+      "id": 2,
+      "parts": [
+        {
+          "category": "Clickys",
+          "items": [
+            {
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
+            },
+            {
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
+            },
+            {
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
+            }
+          ]
+        },
+        {
+          "category": "Connectors",
+          "items": [
+              {
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
+             },
+              {
+              "title": "",
+              "partnumbers": [],
+              "imageurl": ""
+             }
+          ]
+        }
+      ]
+    }
   ]
 }
