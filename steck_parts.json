@@ -7,15 +7,15 @@
               "category": "Wall sections",
               "items": [
                      {
-                        "title": "Wall section , Flat (bag)",
-                        "partnumbers": ["30514463"],
-                        "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
-                      },
-                     {
                        "title": "Wall section, Flat",
                        "partnumbers": ["30076120"],
                         "imageurl": "https://i.ibb.co/5cXMgwj/30076120.png"
                      },
+                     {
+                        "title": "Wall section , Flat (bag)",
+                        "partnumbers": ["30514463"],
+                        "imageurl": "https://i.ibb.co/Jsgg1kh/30514463.png"
+                      },
                      {
                        "title": "Wall section arched window",
                        "partnumbers": ["30076720"],
